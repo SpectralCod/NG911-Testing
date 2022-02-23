@@ -149,7 +149,7 @@
       "SubCategories": [
         {
           "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
+          "Name": "Test 1",
           "Security": "Visitors",
           "Image": "images/categories/outlook.png",
           "Type": "SubCategory",
